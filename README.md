@@ -16,6 +16,11 @@
 - Node.js
 - Git & GitHub
 - HTML, CSS
+- ![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
+![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript)
+![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
+![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
 
 ---
 
@@ -44,7 +49,7 @@ Repository:
 
 ## 📊 GitHub Stats
 
-![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikhil1900gupta-sudo&show_icons=true&theme=tokyonight)
+![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikhil1900gupta-sudo&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
 ---
 
