@@ -2,6 +2,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Java+Full+Stack+Developer;Spring+Boot+Learner;DSA+Enthusiast;Backend+Developer" />
 </p>
+
 ![](https://komarev.com/ghpvc/?username=nikhil1900gupta-sudo&color=blueviolet&style=for-the-badge)
 
 🎓 B.Tech CSE (Data Science) Student at Oriental College of Science and Technology  
