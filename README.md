@@ -1,4 +1,8 @@
 # Hi 👋, I'm Nikhil Gupta
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Java+Full+Stack+Developer;Spring+Boot+Learner;DSA+Enthusiast;Backend+Developer" />
+</p>
+![](https://komarev.com/ghpvc/?username=nikhil1900gupta-sudo&color=blueviolet&style=for-the-badge)
 
 🎓 B.Tech CSE (Data Science) Student at Oriental College of Science and Technology  
 💻 Passionate about Backend Development, Problem Solving and Tech Projects  
@@ -53,8 +57,13 @@ Repository:
 
 ## 📊 GitHub Stats
 
-![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikhil1900gupta-sudo&show_icons=true&theme=tokyonight&cache_seconds=1800)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nikhil1900gupta-sudo&show_icons=true&theme=tokyonight" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhil1900gupta-sudo&layout=compact&theme=tokyonight" />
+</p>
 ---
 
 ## 🔥 Contribution Streak
