@@ -1,16 +1,63 @@
-## Hi there 👋
+# Hi 👋, I'm Nikhil Gupta
 
-<!--
-**nikhil1900gupta-sudo/nikhil1900gupta-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE (Data Science) Student at Oriental College of Science and Technology  
+💻 Passionate about Backend Development, Problem Solving and Tech Projects  
+🚀 SIH Participant  
+🌱 Currently learning DSA, TypeScript and Backend Development  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+
+- C++
+- Python
+- TypeScript
+- JavaScript
+- Node.js
+- Git & GitHub
+- HTML, CSS
+
+---
+
+## 📌 Current Focus
+
+- Data Structures & Algorithms
+- Backend Development
+- Real World Projects
+- Open Source Learning
+
+---
+
+## 🛠️ Projects
+
+### 🔹 EduShield
+Smart education safety platform developed during SIH 2025.
+
+Tech Used:
+- TypeScript
+- Modern Web Technologies
+
+Repository:
+👉 https://github.com/nikhil1900gupta-sudo/eduShield
+
+---
+
+## 📊 GitHub Stats
+
+![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikhil1900gupta-sudo&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔥 Contribution Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=nikhil1900gupta-sudo&theme=tokyonight)
+
+---
+
+## 🌐 Connect With Me
+
+- GitHub: https://github.com/nikhil1900gupta-sudo
+
+---
+
+⭐ “Consistency beats talent when talent doesn’t stay consistent.”
