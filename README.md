@@ -3,33 +3,37 @@
 🎓 B.Tech CSE (Data Science) Student at Oriental College of Science and Technology  
 💻 Passionate about Backend Development, Problem Solving and Tech Projects  
 🚀 SIH Participant  
-🌱 Currently learning DSA, TypeScript and Backend Development  
+🌱Currently learning Java Full Stack Development, Spring Boot and DSA  
 
 ---
 
 ## 🚀 Tech Stack
 
-- C++
-- Python
+- Java
+- MySQL
+- JDBC
+- Servlet
+- Spring Boot
 - TypeScript
 - JavaScript
-- Node.js
 - Git & GitHub
 - HTML, CSS
-- ![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
-![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
-![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript)
-![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
+
+![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=openjdk)
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-green?style=for-the-badge&logo=springboot)
 ![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript)
 
 ---
 
 ## 📌 Current Focus
 
+- Java Backend Development
+- Spring Boot Projects
 - Data Structures & Algorithms
-- Backend Development
 - Real World Projects
-- Open Source Learning
 
 ---
 
